@@ -12,12 +12,12 @@ Crear un programa en Javascript que realice lo siguiente:
 5. Prueba tu programa con las siguientes combinaciones para asegurarte que funcione correctamente:
 
 - Entrada: 
-   3
+   **3
 - Salida: 
    0, 1, 1.
 - Entrada: 
    10
-Salida: 
+- Salida: 
    0, 1, 1, 2, 3, 5, 8, 13, 21, 34.
 
 -Pruébalo con los números que se te ocurran.
